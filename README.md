@@ -17,7 +17,7 @@
 <h2 align="center">About Me</h2>
 - ⚡ Fun fact **Exploring thinks no one Knows(while sleeping)** <br> <br>
  <p align="center">
-  I'm a 2rd year student pursuing Bachelor's in Computer Science 🎓 from Kaziranga University 🏛. I'm a passionate learner who's always willing to    learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to guide and mentor newbies👨🏻‍💻. I'm into Web 🕸️ Development.
+  I'm a 4th year student pursuing Bachelor's in Computer Science 🎓 from Kaziranga University 🏛. I'm a passionate learner who's always willing to    learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to guide and mentor newbies👨🏻‍💻. I'm into Web 🕸️ Development.
 </p> 
 
 <h2 align="center">Technology Stack <img src="https://github.com/ritik307/ritik307/blob/main/images/laptop.gif" width="50"></h2>
