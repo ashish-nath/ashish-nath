@@ -42,7 +42,7 @@
 <h2 align="center">Reach me out on <img src="https://media0.giphy.com/media/jqNPzdTTxQfOgOqpO4/source.gif" width="50"></h2>
 
 <p align="center">
-<a href="mailto: ashishnath2220@gmail.com">
+<a href="mailto: ashishn401@gmail.com">
  <img src="https://img.shields.io/badge/-ashishnath2220-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ashishnath2220@gmail.com"/>
 </a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/nathashish/">
@@ -72,7 +72,7 @@
  <img src="https://activity-graph.herokuapp.com/graph?username=ashish-nath&theme=redical">
 </p>
 
-<h2>Currently Learning</h2>
+<!-- <h2>Currently Learning</h2>
 - 🌱 Frameworks, Advance CSS, courses. <br>
 - 🌱 AI/ML <br>
-- 🌱 Advance C++ <br>
+- 🌱 Advance C++ <br> --!>
