@@ -17,7 +17,7 @@
 <h2 align="center">About Me</h2>
 - ⚡ Fun fact **Exploring thinks no one Knows(while sleeping)** <br> <br>
  <p align="center">
-  I'm a pass out in  Bachelor's in Computer Science 🎓 from Kaziranga University (2024) 🏛. I'm a passionate learner who's always willing to    learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to guide and mentor newbies👨🏻‍💻. I'm into Multi 🕸️ Development.
+  I'm a pass out in  Bachelor's in Computer Science. I'm a passionate learner who's always willing to    learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to guide and mentor newbies👨🏻‍💻. I'm into Multi 🕸️ Development.
 </p> 
 
 <h2 align="center">Technology Stack <img src="https://github.com/ritik307/ritik307/blob/main/images/laptop.gif" width="50"></h2>
